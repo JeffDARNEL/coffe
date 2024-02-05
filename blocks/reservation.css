@@ -1,0 +1,56 @@
+.reservation {
+  background-image: url(../images/background_reservation.svg);
+  width: 100%;
+  height: 1100px;
+  background-color: #d9e7ff;
+  display: block;
+}
+.reservation__title {
+  /*max-width: 385px;
+  width: 385px;*/
+  height: 60px;
+  /* margin-top: 100px;
+  margin-bottom: 80px;*/
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 80px;
+  margin: 0px;
+}
+.terms {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  justify-content: center;
+  border-radius: 2px;
+  color: #000000;
+}
+.button {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  border-radius: 4px;
+  max-width: 385px;
+  height: 60px;
+  width: 385px;
+  margin-bottom: 32px;
+  background-color: #2f80ed;
+  text-align: center;
+  color: #fff;
+}
+.checkbox {
+  border-radius: 2px;
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+}
